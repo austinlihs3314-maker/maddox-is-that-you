@@ -1,0 +1,9 @@
+type GameName = text;
+service : {
+  getAllHighScores: () -> (vec record {
+                                 GameName;
+                                 nat;
+                               }) query;
+  getHighScore: (gameName: GameName) -> (nat) query;
+  submitScore: (gameName: GameName, score: nat) -> (bool);
+}

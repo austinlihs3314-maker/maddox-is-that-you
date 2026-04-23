@@ -1,0 +1,20 @@
+{
+  "overview": "Maddox Is That You is a browser arcade hub featuring 4 fully playable mini-games: Golf Orbit, Space Shooter, Snake, and Flappy Bird. Launch any game from the main menu, rack up a high score, and see it saved permanently.",
+  "features": [
+    "Main menu hub with 4 game tiles",
+    "Golf Orbit — aim and shoot with power/angle controls",
+    "Space Shooter — dodge and destroy descending enemies",
+    "Snake — classic grow-and-eat gameplay",
+    "Flappy Bird — tap to fly through pipes",
+    "Persistent high scores stored in the backend"
+  ],
+  "category": "games",
+  "tags": [
+    "arcade",
+    "games",
+    "mini-games",
+    "high-scores",
+    "browser-game"
+  ],
+  "last_updated": "2026-04-22T20:45:21.634Z"
+}
